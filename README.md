@@ -1,7 +1,7 @@
 # Hello there!👋
 
 
-My name is Hamza (you can call me Mezu). I'm a second year computer science university student, I also believe in self-education and that it has great importance in a programmer's journey, so i'm currently putting myself through a self-thought journey. **C** was my first language and I'm currently following a Full-Stack roadmap.
+My name is Hamza. I'm a second year computer science university student, I also believe in self-education and that it has great importance in a programmer's journey, so i'm currently putting myself through a self-thought journey. **C** was my first language and I'm currently following a Full-Stack roadmap.
 
 * 🌍  I'm based in Algeria!
 * 🔭  I’m currently working on [TheOdinProject](https://www.theodinproject.com)
