@@ -1,7 +1,7 @@
 # Hello there!👋
 
 
-My name is Hamza. I am a third year computer science university student. I believe in self-education and that it has great importance in a programmer's journey, so I am currently putting myself through a self-thought journey. **C** was my first language and I'm currently following a Full-Stack roadmap.
+My name is Hamza. I am pursuing a master's in software engineering and intelligent systems. I believe in self-education and that it has great importance in a programmer's journey, so I am currently putting myself through a self-thought journey. **C** was my first language and I'm currently following a Full-Stack roadmap.
 
 * 🌍  I'm based in Algeria!
 * 🔭  I’m currently working on [TheOdinProject](https://www.theodinproject.com)
